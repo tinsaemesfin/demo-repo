@@ -1,3 +1,3 @@
-* This Is a Sample
+# This Is a Sample
 
 Tinsae MEsfin
